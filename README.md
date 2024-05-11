@@ -1,2 +1,2 @@
 # lwRegions
- Plugin for Minecraft Server
+ Отображение региона над хотбаром в котором вы находитесь 
