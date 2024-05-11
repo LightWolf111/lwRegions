@@ -1,0 +1,9 @@
+name: lwRegions
+version: '1.0'
+main: lightwolf.lwregions.LwRegions
+api-version: '1.16'
+commands:
+  lwregions:
+    description: Добавить регион или перезагрузить конфигурацию плагина
+    usage: /lwregions add <название_региона> <описание_региона> 
+           /lwregions reload
