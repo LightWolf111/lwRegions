@@ -1,0 +1,8 @@
+name: lwRegions
+version: '${project.version}'
+main: lightwolf.lwregions.LwRegions
+api-version: '1.16'
+commands:
+  lwregions:
+    description: Перезагрузить конфигурацию плагина
+    usage: /lwregions reload
